@@ -1,0 +1,17 @@
+{
+  "name": "03_image_search_abstraction_layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ivan Schurawel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
